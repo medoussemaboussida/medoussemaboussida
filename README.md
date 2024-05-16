@@ -34,5 +34,5 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&theme=tokyonight)
+
 
