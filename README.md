@@ -1,5 +1,6 @@
 ## 👨‍💻​ About me:
 <p>Hello there , I'm Oussema Boussida , a Software engineering student at ESPRIT University , driven by a strong passion for technology and problem-solving . </p>
+<img src="https://img.shields.io/badge/Age-22-blue" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***<p align = "left">
 #
@@ -38,6 +39,12 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Stats...*** <p align="left">
 #
+
+![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 
 
