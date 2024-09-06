@@ -45,6 +45,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
 
 
