@@ -44,8 +44,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Stats...*** <p align="left">
 #
 
-![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
 
 
