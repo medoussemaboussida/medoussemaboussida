@@ -1,5 +1,13 @@
+<h1 align="center"><b>Hey , I'm Mohamed Oussema Boussida </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Oussema+Boussida..&hearts;++;Software-Engineer"></a>
+</p>
+
+
+
 ## 👨‍💻​ About me:
 <p>Hello there , I'm Oussema Boussida , a Software engineering student at ESPRIT University , driven by a strong passion for technology and problem-solving . </p>
+
 <img src="https://img.shields.io/badge/Age-22-blue" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me...***<p align = "left">
@@ -43,7 +51,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Stats...*** <p align="left">
 #
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
 
