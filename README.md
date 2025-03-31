@@ -94,17 +94,14 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
