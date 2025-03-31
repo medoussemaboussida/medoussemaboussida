@@ -8,17 +8,12 @@
 <h3>👨‍💻​ About me:</h3> 
 <p>Hello there , I'm Oussema Boussida , a Software engineering student at ESPRIT University , driven by a strong passion for technology and problem-solving . </p>
 <img src="https://img.shields.io/badge/Age-22-blue" />
-
-
-
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">&nbsp;***Connect with me...***<p align = "left">
 ##
 <div align="left">
@@ -37,9 +32,9 @@
 <a href="https://www.facebook.com/oussema.boussida.3" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
 </a>
-  <a href="https://oussemaboussida.netlify.app/">
+<!--   <a href="https://oussemaboussida.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </a>
+  </a> -->
 </div>
  
 <br>
