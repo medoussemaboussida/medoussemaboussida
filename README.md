@@ -108,8 +108,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" height="40" alt="SonarQube logo" />
-  <img width="12" />
+
   
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
