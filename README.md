@@ -7,7 +7,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <h3>👨‍💻​ About me:</h3> 
 <p>Hello there , I'm Oussema Boussida , a Software engineering student at ESPRIT University , driven by a strong passion for technology and problem-solving . </p>
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />  
 <br>
 <br>
 <br>
@@ -133,12 +133,15 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">&nbsp;***Stats...*** <p align="left">
 #
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />  
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=medoussemaboussida)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oussemabou)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oussemabou)](https://github.com/anuraghazra/github-readme-stats)  
+
+
 
 
