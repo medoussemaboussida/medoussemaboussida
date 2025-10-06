@@ -7,7 +7,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <h3>👨‍💻​ About me:</h3> 
 <p>Hello there , I'm Oussema Boussida , a Software engineering student at ESPRIT University , driven by a strong passion for technology and problem-solving . </p>
-<img src="https://img.shields.io/badge/Age-22-blue" />  
+<img src="https://img.shields.io/badge/Age-23-blue" />  
 <br>
 <br>
 <br>
