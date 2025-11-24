@@ -152,13 +152,13 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medoussemaboussida&theme=radical&hide_border=true" height="180"/>
+</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=medoussemaboussida)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oussemabou)](https://github.com/anuraghazra/github-readme-stats)  
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medoussemaboussida&theme=radical&hide_border=true" height="180"/>
-</p>
 
 
 
