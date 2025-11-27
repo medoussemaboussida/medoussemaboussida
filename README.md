@@ -13,6 +13,23 @@
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=medoussemaboussida)
 
 <img src="https://img.shields.io/badge/Age-23-blue" />  
+<div align="left" style="width: fit-content; margin: auto;">
+
+<table>
+  <tr>
+    <th>Choose your language</th>
+    <th>Flags</th>
+  </tr>
+  <tr>
+    <td><a href="./README-FR.md">FR-FRA</a></td>
+    <td>
+      <img width="25" alt="France Flag (FR)" 
+           src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" />
+    </td>
+  </tr>
+</table>
+
+</div>
 <br>
 <br>
 <br>
@@ -166,24 +183,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=medoussemaboussida&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oussemabou)](https://github.com/anuraghazra/github-readme-stats)  
-
-
- 
-<div align="center" style="width: fit-content; margin: auto;">
-
-<table>
-  <tr>
-    <th>Choose your language</th>
-    <th>Flags</th>
-  </tr>
-  <tr>
-    <td><a href="./README-FR.md">FR-FRA</a></td>
-    <td>
-      <img width="25" alt="France Flag (FR)" 
-           src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
