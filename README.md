@@ -168,4 +168,22 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oussemabou)](https://github.com/anuraghazra/github-readme-stats)  
 
 
+ 
+<div align="center" style="width: fit-content; margin: auto;">
+
+<table>
+  <tr>
+    <th>Choose your language</th>
+    <th>Flags</th>
+  </tr>
+  <tr>
+    <td><a href="./README-FR.md">FR-FRA</a></td>
+    <td>
+      <img width="25" alt="France Flag (FR)" 
+           src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
