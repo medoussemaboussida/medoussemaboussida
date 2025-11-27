@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hey , I'm Mohamed Oussema Boussida </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Oussema+Boussida..&hearts;++;Software-Engineer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Software+Engineer..+⚙️;A+Full-Stack+Developer..+💻"></a>
 </p>
 
 
@@ -88,6 +88,8 @@
   <!-- Back-end Frameworks -->
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs colored logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo" />
@@ -95,7 +97,6 @@
   <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo" />
   <img width="12" />
 
-  <!-- Added Django & Laravel -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
@@ -108,6 +109,8 @@
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 
@@ -141,6 +144,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+
 </p>
 
 
@@ -152,8 +158,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=medoussemaboussida&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=medoussemaboussida&show_icons=true&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=medoussemaboussida)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=medoussemaboussida&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)![](https://github-contributor-stats.vercel.app/api?username=medoussemaboussida&limit=5&theme=prussian&combine_all_yearly_contributions=true) 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=medoussemaboussida&theme=react)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oussemabou)](https://github.com/anuraghazra/github-readme-stats)  
 
