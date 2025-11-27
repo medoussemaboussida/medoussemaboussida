@@ -15,7 +15,25 @@
 ![GitHub followers](https://img.shields.io/github/followers/medoussemaboussida?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=medoussemaboussida)
 
-<img src="https://img.shields.io/badge/Âge-23-blue" />  
+<img src="https://img.shields.io/badge/Âge-23-blue" /> 
+<div align="left" style="width: fit-content; margin: auto;">
+
+<table>
+  <tr>
+    <th>Choisissez votre langue</th>
+    <th>Drapeau</th>
+  </tr>
+  <tr>
+    <td><a href="./README.md">EN</a></td>
+    <td>
+      <img width="25" alt="English Flag (EN)"
+           src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 <br><br><br><br><br><br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">&nbsp;***Contact...***  
