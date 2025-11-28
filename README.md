@@ -8,7 +8,7 @@
 <h3>👨‍💻​ About me :</h3> 
 <p>Hello there , I'm Oussema Boussida , a Software engineering student at ESPRIT School of Engineering , driven by a strong passion for technology and problem-solving . </p>
 
-[![Mail Badge](https://img.shields.io/badge/-medoussemaboussida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:medoussemaboussida0@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-medoussemaboussida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:medoussemaboussida@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/medoussemaboussida?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=medoussemaboussida)
 
