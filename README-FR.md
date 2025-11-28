@@ -11,7 +11,7 @@
 <h3>👨‍💻​ À propos de moi :</h3> 
 <p>Bonjour, je suis Oussema Boussida, étudiant en ingénierie informatique à L'École supérieure privée d'ingénierie et de technologie - ESPRIT, passionné par la technologie et la résolution de problèmes.</p>
 
-[![Mail Badge](https://img.shields.io/badge/-medoussemaboussida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:medoussemaboussida0@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-medoussemaboussida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:medoussemaboussida@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/medoussemaboussida?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=medoussemaboussida)
 
@@ -24,7 +24,7 @@
     <th>Drapeau</th>
   </tr>
   <tr>
-    <td><a href="./README.md">EN</a></td>
+    <td><a href="./README.md">ENG</a></td>
     <td>
       <img width="25" alt="English Flag (EN)"
            src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" />
