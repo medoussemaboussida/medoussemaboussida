@@ -13,7 +13,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/-medoussemaboussida-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:medoussemaboussida@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/medoussemaboussida?style=social)
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=medoussemaboussida)
 
 <img src="https://img.shields.io/badge/Âge-23-blue" /> 
 <div align="left" style="width: fit-content; margin: auto;">
