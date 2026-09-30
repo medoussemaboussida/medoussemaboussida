@@ -28,12 +28,6 @@ Software Engineer at **[Spark Talent Alliance](https://sparktalentalliance.com)*
 
 I work across the whole product: Flutter mobile apps, full-stack web platforms, and the DevOps tooling that builds, ships and monitors them.
 
-<table>
-<tr><td width="170"><b>Mobile</b></td><td>Flutter &amp; Dart for cross-platform apps, Kotlin for native Android</td></tr>
-<tr><td><b>Web & Backend</b></td><td>React, Next.js and Angular front ends; NestJS, Express, Spring Boot, Symfony and Laravel APIs</td></tr>
-<tr><td><b>Data</b></td><td>MySQL, MongoDB, Oracle, SQLite and Firebase</td></tr>
-<tr><td><b>DevOps</b></td><td>Docker, Jenkins CI/CD, Vagrant, Grafana &amp; Prometheus monitoring</td></tr>
-</table>
 
 <br/>
 
