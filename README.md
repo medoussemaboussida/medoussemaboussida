@@ -141,8 +141,6 @@ I work across the whole product: Flutter mobile apps, full-stack web platforms, 
 
 ## Let's connect &nbsp;<sub><code>$ ssh connect@oussema</code></sub>
 
-Always happy to talk Flutter, full-stack web architecture and DevOps tooling, or to team up on something new.
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oussema--boussida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=042F2E)](https://www.linkedin.com/in/oussema-boussida/)
