@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="261" viewBox="0 0 1200 261">
+<defs><linearGradient id="cardG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B3236" stop-opacity="0.9"/><stop offset="1" stop-color="#06232A" stop-opacity="0.9"/></linearGradient></defs>
+<rect x="36" y="4" width="360" height="249" rx="16" fill="url(#cardG)" stroke="#134E4A" stroke-width="1"/>
+<rect x="62" y="34" width="54" height="54" rx="13" fill="#22D3EE" fill-opacity="0.12" stroke="#22D3EE" stroke-opacity="0.4"/>
+<rect x="77.5" y="43.5" width="23" height="35" rx="5" fill="none" stroke="#22D3EE" stroke-width="2.4"/><circle cx="89" cy="72.5" r="2" fill="#22D3EE"/>
+<text x="62" y="124" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#E6FFFB">Flutter Mobile Apps</text>
+<text x="62" y="156" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">Cross-platform Android and iOS</text>
+<text x="62" y="177" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">apps in Flutter &amp; Dart, with</text>
+<text x="62" y="198" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">Firebase, clean state management</text>
+<text x="62" y="219" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">and reusable widgets.</text>
+<rect x="420" y="4" width="360" height="249" rx="16" fill="url(#cardG)" stroke="#134E4A" stroke-width="1"/>
+<rect x="446" y="34" width="54" height="54" rx="13" fill="#14B8A6" fill-opacity="0.12" stroke="#14B8A6" stroke-opacity="0.4"/>
+<rect x="455.5" y="47" width="35" height="28" rx="5" fill="none" stroke="#14B8A6" stroke-width="2.4"/><line x1="455.5" y1="56" x2="490.5" y2="56" stroke="#14B8A6" stroke-width="2.4"/>
+<text x="446" y="124" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#E6FFFB">Full-Stack Web</text>
+<text x="446" y="156" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">React, Next.js and Angular front</text>
+<text x="446" y="177" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">ends on top of NestJS, Express,</text>
+<text x="446" y="198" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">Spring Boot and Symfony APIs,</text>
+<text x="446" y="219" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">backed by SQL and NoSQL data.</text>
+<rect x="804" y="4" width="360" height="249" rx="16" fill="url(#cardG)" stroke="#134E4A" stroke-width="1"/>
+<rect x="830" y="34" width="54" height="54" rx="13" fill="#5EEAD4" fill-opacity="0.12" stroke="#5EEAD4" stroke-opacity="0.4"/>
+<circle cx="857" cy="61" r="16.5" fill="none" stroke="#5EEAD4" stroke-width="3" stroke-dasharray="7.5 6"/><circle cx="857" cy="61" r="3" fill="#5EEAD4"/>
+<text x="830" y="124" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#E6FFFB">DevOps &amp; Tooling</text>
+<text x="830" y="156" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">Docker containers, Jenkins CI/CD</text>
+<text x="830" y="177" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">pipelines, and Grafana + Prometheus</text>
+<text x="830" y="198" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">monitoring so every release is</text>
+<text x="830" y="219" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#8FC7C0">built, tested and observable.</text>
+</svg>
