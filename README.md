@@ -9,8 +9,6 @@
 <a href="https://sparktalentalliance.com"><img src="https://img.shields.io/badge/@-spark%20talent%20alliance-115E59?style=for-the-badge&labelColor=042F2E" alt="Company" /></a>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/focus-flutter%20%C2%B7%20full--stack%20%C2%B7%20devops-14B8A6?style=for-the-badge&logo=flutter&logoColor=E6FFFB&labelColor=042F2E" alt="Focus" />
-&nbsp;&nbsp;
-<a href="./README-FR.md"><img src="https://img.shields.io/badge/lire%20en-fran%C3%A7ais-0F766E?style=for-the-badge&labelColor=042F2E" alt="Français" /></a>
 
 </div>
 
